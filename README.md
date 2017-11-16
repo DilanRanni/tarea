@@ -1,1 +1,2 @@
-# tarea
+Metodo Burbuja: es un metodo de ordenamiento que consiste en ordenar de manera gradual los numeros que son ingresados. Este metodo basicamenete analiza cada uno de los numeros y compara cada uno para determinar en que orden deben estar.Este metodo no para de analizar los numeros hasta que ya no hallan numeros por ordenar.
+Jenkins: Primero que todo se debe crear un nuevo proyecto en el cual indiques el nombre del protecto, despues se igresa el nombre del archivo ".java" que se quiera hacer el test. seguido de indicar la ruta donde esata alojado el "buils.xml" el cual necesita jenkins para hacer las pruerbas, por ultimo se selecciona la opcion de "Junit" para tener los resultado, una vez aplicados los cambios , arrojara el estado del test.
